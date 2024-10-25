@@ -19,7 +19,7 @@ function buscarPokemon() {
         const imagenDelantera = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/${data.id}.gif`;
 
         div.innerHTML = ` 
-    <div class="d-flex justify-content-center align-items-center" style="height: 90vh;">
+    <div class="d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="card" style="width: 18rem;">
             <img src="${imagenDelantera}" class="card-img-top" alt="${mayuscula(data.name)}" style="width: 100%; height: 200px; object-fit: contain;">
             <div class="card-body">

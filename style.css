@@ -3,7 +3,7 @@
 }
 
 body {
-   background-image: url(fondo.jpg);
+   background-image: url(fondo3.jpg);
 }
 
 
@@ -22,7 +22,7 @@ body {
 
 #buscar{
     display: flex;
-    margin-left: 42%;
+    margin-left: 43.5%;
     margin-top: 3%;
     border: 2px solid rgb(5, 117, 186);
     background-color: rgb(127, 200, 255);
@@ -31,8 +31,8 @@ body {
 
 #boton{
     display: flex;
-    margin-left: 55%;
-    margin-top: -2%;
+    margin-left: 54%;
+    margin-top: -1.5%;
     background-color: rgb(22, 158, 243); 
     border: 2px solid rgb(5, 117, 186); 
     border-radius: 8px; 
